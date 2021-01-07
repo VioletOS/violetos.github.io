@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "azo";
+  src: url("azo.ttf");
+}
+
+.motto {
+  color: purple;
+  font-family: "azo";
+}
+
+body{
+    background-image: url('https://i.pinimg.com/originals/cc/ef/5c/ccef5c9d6d59c1f3df1bfc0c85a28e79.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
